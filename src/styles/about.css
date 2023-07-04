@@ -1,0 +1,13 @@
+.text img{
+    width:500px;
+    height: 400px;
+    margin-left: 210px;
+}
+.text button{
+    background-color: aqua;
+    padding: 5px 25px;
+    border: 1px solid white;
+    color: white;
+    font-weight: bold;
+    border-radius: 23px;
+}

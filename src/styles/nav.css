@@ -1,0 +1,32 @@
+.head h1{
+    margin-left: 200px;
+}
+.trip{
+    position: sticky;
+    z-index: 1;
+    top:0;
+}
+.head {
+    background-clip: padding-box;
+    background: linear-gradient(to right, red, orange, yellow, green, blue, indigo, violet, black);
+    -webkit-background-clip:text;
+    -webkit-text-fill-color: transparent;
+}
+
+@media (min-width: 576px) {
+    /* Styles for Small screens */
+  }
+  
+  @media (min-width: 768px) {
+    /* Styles for Medium screens */
+  }
+  
+  @media (min-width: 992px) {
+    /* Styles for Large screens */
+  }
+  
+  @media (min-width: 1200px) {
+    /* Styles for Extra Large screens */
+  }
+  
+  

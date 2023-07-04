@@ -1,0 +1,10 @@
+.txt{
+    position: absolute;
+    text-align: center;
+    top: 250px;
+    color: white;
+    left: 540px;
+}
+.txt h1{
+    font-size:60px;
+}

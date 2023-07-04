@@ -1,0 +1,31 @@
+.card{
+    width: 450px;
+    background:burlywood;
+    
+}
+.tour{
+    display: grid;
+    grid-template-columns: repeat(3,1fr);
+    row-gap: 30px;
+    width: 95%;
+    margin: auto;
+    grid-column-gap: 10px;
+}
+.text-tours{
+    text-align: justify;
+}
+.items{
+    background-color: #ece9e9;
+    border: none;
+}
+.date{
+    position: absolute;
+    left: 280px;
+    top: 250px;
+    background-color: skyblue;
+    width: 170px;
+    height: 30px;
+}
+.date p{
+    text-align: center;
+}

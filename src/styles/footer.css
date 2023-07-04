@@ -1,0 +1,9 @@
+.footer{
+    background-color: rgb(226, 232, 237);
+    height: 200px;
+    margin-top: 50px;
+}
+.foot{
+    position: absolute;
+    left: 550px;
+}

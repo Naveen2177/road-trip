@@ -1,0 +1,13 @@
+.service ul li{
+    list-style: none;
+}
+#icon{
+    font-size: 40px;
+}
+.serve{
+    background-color: #f1ebeb;
+    height: 260px;
+}
+.serve h1{
+    padding: 30px;
+}
